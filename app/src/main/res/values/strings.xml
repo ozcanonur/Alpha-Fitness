@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TraningTrackingSystem</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_client_interface">ClientInterface</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="age"></string>
+</resources>

@@ -1,0 +1,67 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TableRow>
+
+        <TextView android:text="Name:"
+            android:layout_marginLeft="10dp" />
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="15dp"/>
+
+    </TableRow>
+    <TableRow>
+
+        <TextView android:text="Gender:"
+            android:layout_marginLeft="10dp" />
+        <TextView
+            android:id="@+id/gender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="15dp"/>
+
+    </TableRow>
+    <TableRow>
+
+        <TextView android:text="Age:"
+            android:layout_marginLeft="10dp" />
+        <TextView
+            android:id="@+id/age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="15dp"/>
+
+    </TableRow>
+    <TableRow>
+
+        <TextView android:text="Height:"
+            android:layout_marginLeft="10dp" />
+        <TextView
+            android:id="@+id/height"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="15dp"/>
+
+    </TableRow>
+    <TableRow>
+
+        <TextView android:text="Weight:"
+            android:layout_marginLeft="10dp" />
+        <TextView
+            android:id="@+id/weight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="15dp"/>
+
+    </TableRow>
+
+</TableLayout>
